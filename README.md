@@ -22,19 +22,21 @@ Install dependencies:
 Copy code
 cd ethereum-nft-project
 npm install
+```
 Set up your environment variables:
 
 Create a .env file in the root directory and add the following:
 
 
-
+```
 ALCHEMY_API_KEY=your-alchemy-api-key
 PRIVATE_KEY=your-private-key
 Run the Hardhat tests:
+```
 
-```bash
-Copy code
+```
 npx hardhat test
+```
 This will compile your contracts and run the test script.
 
 # Contract Functionality
