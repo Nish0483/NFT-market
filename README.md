@@ -1,3 +1,9 @@
+# # notes on task
+contract is in 'goreli'
+contract adresss : 0xA546C2dF062ade1740c24aA5Cdb7E80C42A1C46c
+The Minter Role is added to : 0xFbB28e9380B6657b4134329B47D9588aCfb8E33B
+Admin also need to add byself Minter role if want to mint
+
 # Ethereum NFT Project
 
 This project implements an Ethereum-based Non-Fungible Token (NFT) contract with features such as fixed-price listings and auctions. The project is built using the Ethereum blockchain, Solidity for smart contracts, Hardhat for development, and Node.js for the backend.
@@ -79,3 +85,5 @@ To buy an NFT listed for a fixed price, use the buyFixedPriceNFT function.
 
 11. Change Admin
 To change the admin, use the changeAdmin function.
+
+
