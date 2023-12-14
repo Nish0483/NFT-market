@@ -38,6 +38,13 @@ Run the Hardhat tests:
 npx hardhat test
 ```
 This will compile your contracts and run the test script.
+# Running Nodejs file
+1. In the root directry there is a file interactWithNFT
+2. Go to that directry command and run
+```
+node interactWithNFT.js
+```
+to run and test on javasript .Bottom lines contain test functions you can comment uncomment change inputs for use
 
 # Contract Functionality
 1. List an NFT for Fixed Price
