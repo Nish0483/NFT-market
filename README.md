@@ -26,18 +26,18 @@ Set up your environment variables:
 
 Create a .env file in the root directory and add the following:
 
-env
-Copy code
+
+
 ALCHEMY_API_KEY=your-alchemy-api-key
 PRIVATE_KEY=your-private-key
 Run the Hardhat tests:
 
-bash
+```bash
 Copy code
 npx hardhat test
 This will compile your contracts and run the test script.
 
-Contract Functionality
+# Contract Functionality
 1. List an NFT for Fixed Price
 To list an NFT for a fixed price, use the listForFixedPrice function.
 
