@@ -18,7 +18,7 @@ Before running the project, make sure you have the following installed:
    git clone https://github.com/your-username/ethereum-nft-project.git
 Install dependencies:
 
-bash
+```bash
 Copy code
 cd ethereum-nft-project
 npm install
